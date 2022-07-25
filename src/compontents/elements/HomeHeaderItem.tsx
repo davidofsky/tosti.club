@@ -1,5 +1,5 @@
 import React, {MouseEventHandler} from 'react';
-import {motion} from 'framer-motion';
+import {motion} from 'framer-motion/dist/framer-motion';
 
 interface Props {
 	Text: string

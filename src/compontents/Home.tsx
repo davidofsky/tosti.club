@@ -1,10 +1,8 @@
 import React, {useEffect, useState} from 'react';
 import HomeHeaderItem from './elements/HomeHeaderItem';
-import {AnimatePresence, motion} from 'framer-motion';
 import PageWrapper from './PageWrapper';
 import Profile from './Profile';
 import Cats from './Cats';
-import Chat from './Chat';
 
 const Home:React.FC = () => {
 

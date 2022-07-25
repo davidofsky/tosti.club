@@ -1,5 +1,5 @@
 import React from 'react';
-import {motion} from 'framer-motion'
+import {motion} from 'framer-motion/dist/framer-motion'
 
 interface Props {
 	setShowStartProp: React.Dispatch<React.SetStateAction<boolean>>
